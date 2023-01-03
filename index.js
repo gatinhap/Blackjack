@@ -11,5 +11,3 @@ if(sum <= 20) {
 } else {
     console.log("You're out of the game! 😭")
 }
-
-
