@@ -4,6 +4,7 @@ body {
   overflow: hidden;
   margin: 0;
   padding: 50px;
+  height: 100vh;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   background: url("casino.jpg") center top / cover no-repeat;
 }
